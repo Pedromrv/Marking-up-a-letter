@@ -1,4 +1,4 @@
-# Marking-up-a-letter
+# Marking up a letter
 
 ## Starting point
 
